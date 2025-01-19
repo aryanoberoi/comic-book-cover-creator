@@ -1,0 +1,5 @@
+streamlit
+replicate 
+pillow
+numpy
+cv2
