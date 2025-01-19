@@ -3,3 +3,5 @@ replicate
 pillow
 numpy
 cv2
+opencv-python-headless
+openai
